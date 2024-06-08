@@ -4,6 +4,11 @@ This is a description of all the AI 249 Materials, Assignments, Exams
 
 All Videos:
 
+https://www.youtube.com/watch?v=Gx0Pt-WMLiU&list=PLdZmdOmIK3vED4A7EkCap30GnZhbLG6YX
+
+https://www.youtube.com/watch?v=DBYM5dtQlz4&list=PLdZmdOmIK3vHZKOZuyxOoTZ-N4fHurjDw
+
+
 
 
 Kaggle Competition
